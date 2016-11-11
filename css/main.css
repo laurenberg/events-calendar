@@ -1,0 +1,40 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+.event {
+  border: 1px #333 solid;
+  border-radius: 8px;
+}
+
+.event-red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
+
+.event-blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+.event-green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+}
+
+.event-grey {
+  background-color: #f2f2f2;
+  border-color: #666;
+  color: #000;
+}
+
+td {
+  height: 10em;
+}
+
+th, td {
+  border: 1px #ccc solid;
+}
